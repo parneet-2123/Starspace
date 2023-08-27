@@ -1,2 +1,5 @@
 # Starspace
-Python model to identify any object and information about it..
+Python model to identify any object
+This model is able to derive information about anything which is captured under the camera, this model is mainly efficient for astronomers or rovers who are involved in the space mission. They can use this AI-powered model to study and analyze the environment of specific planets, soil, nature, and many more... 
+Not only this.. but normal users can also use this model to read various types of documents to summarize them in just a few seconds. This helps in reducing the time as well as will summarize major points...
+Clicl 
